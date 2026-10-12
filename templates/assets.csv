@@ -1,11 +1,11 @@
 Email,Names,Attendance Count,Absence Count
-paul@example.com,paul a,4,3
-paulb@example.com,paul b,4,4
-paulc@example.com,paul c,4,1
-pauld@example.com,paul d,4,2
-paule@example.com,paul e,4,5
-paulf@example.com,paul f,3,0
-paulg@example.com,paul g,1,2
-pauli@example.com,paul i,3,6
-paulj@example.com,paul j,2,7
-paulz@example.com,paul z,3,2
+paul@example.com,paul a,1,3
+paulb@example.com,paul b,3,1
+paulc@example.com,paul c,2,2
+pauld@example.com,paul d,4,0
+paule@example.com,paul e,4,0
+paulf@example.com,paul f,3,1
+paulg@example.com,paul g,1,3
+pauli@example.com,paul i,3,1
+paulj@example.com,paul j,2,2
+paulz@example.com,paul z,3,1
